@@ -36,3 +36,7 @@ li a:hover {
 .table {
     margin: auto;
 }
+
+.table-padding {
+  padding-left: 20px;
+}
