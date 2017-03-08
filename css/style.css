@@ -37,8 +37,8 @@ li a:hover {
     margin: auto;
 }
 
-.table-padding { 
-  text-align: center;
+.padding {
+  margin-left: 10px;
 }
 
 .table {
