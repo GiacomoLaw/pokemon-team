@@ -37,12 +37,6 @@ li a:hover {
     margin: auto;
 }
 
-.table-padding {
-    height: 350px;
-    width: 350px;
-    background: white;
-
-    top: 50%;
-    left: 50%;
-    margin-left: -200px;
+.table-padding { 
+  text-align: center;
 }
