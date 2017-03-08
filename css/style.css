@@ -40,3 +40,8 @@ li a:hover {
 .table-padding { 
   text-align: center;
 }
+
+.table {
+   margin: auto;
+   width: 50% !important; 
+}
