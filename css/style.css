@@ -1,3 +1,48 @@
 .center {
   text-align: center;
 }
+
+html {
+    height: 100%;
+}
+
+body {
+	background: red; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left top, rgb(91,165,69), rgb(52, 79, 45)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, rgb(91,165,69), rgb(52, 79, 45)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, rgb(91,165,69), rgb(52, 79, 45)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, rgb(91,165,69), rgb(52, 79, 45)); /* Standard syntax (must be last) */
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+footer {  
+    background-color: white;
+}
+
+.front {
+  max-width: 70%;
+  margin: 30px auto 0 auto;
+  border-radius: 15px;
+  background-color: white;
+  min-height: 458px;
+}
+
+.padding {
+	margin: 10px;
+}
+
+ .image-border {
+    border-color: #5ba545;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+.centre {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2px;
+}
