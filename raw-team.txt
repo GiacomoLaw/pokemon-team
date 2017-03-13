@@ -1,12 +1,11 @@
 Decidueye (M) @ Leftovers
 Ability: Overgrow
-Careful Nature
 - Roost
 - U-turn
 - Spirit Shackle
-- Frenzy Plant
+- Leaf Blade
 
-Araquanid (M) @ Splash Plate
+Araquanid (M) @ Mystic Water
 Ability: Water Bubble
 - Liquidation
 - Aqua Ring
@@ -15,28 +14,26 @@ Ability: Water Bubble
 
 Salazzle (F) @ Life Orb
 Ability: Corrosion
-Timid Nature
 - Fire Blast
 - Sludge Bomb
 - Hidden Power
 - Nasty Plot
 
-Metagross
+Metagross @ Expert Belt
 Ability: Clear Body
-Jolly Nature
 - Zen Headbutt
 - Meteor Mash
 - Hammer Arm
 - Protect
 
 Garchomp (M) @ Rocky Helmet
-Ability: Sand Veil
+Ability: Rough Skin
 - Earthquake
 - Dragon Claw
 - Rock Slide
 - Protect
 
-Weavile (M)
+Weavile (M) @ Rocky Helmet
 Ability: Pressure
 - Fake Out
 - Knock Off
